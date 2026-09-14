@@ -1,0 +1,3 @@
+---Future Improvements---
+
+- Doc to register the changes to take in consideration to develop the future modules of the project. 
