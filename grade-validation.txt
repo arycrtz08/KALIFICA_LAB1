@@ -1,0 +1,3 @@
+Kalifica tiene que validar que cada nota este entre 0 a 10
+
+Si es invalida se muestra advertencia
