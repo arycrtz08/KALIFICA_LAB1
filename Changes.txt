@@ -1,3 +1,5 @@
 ---Log of the project´s changes---
 
 1. Creation of subdivisions 
+
+2. Creation of new teacher module
